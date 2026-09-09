@@ -1,0 +1,37 @@
+BODY {
+
+background-color: blue; 
+color:yellow; 
+}
+P 
+{
+    color: black; 
+    font-style:italic; 
+    text-align:justify; 
+    font-family:Centaur; 
+    font-size:11pt;
+}
+H1 
+{
+    color: black; 
+    font-style:italic; 
+    text-align:justify; 
+    font-family: Centaur; 
+    font-size:11pt;
+}
+H2 
+{
+    color: black; 
+    font-style:italic; 
+    text-align: left; 
+    font-family:'Times New Roman', Times, serif; 
+    font-size:14pt;
+}
+H3 
+{
+    color: black; 
+    font-style:italic; 
+    text-align: left; 
+    font-family:'Times New Roman', Times, serif; 
+    font-size:14pt;
+}
